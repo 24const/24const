@@ -1,16 +1,31 @@
-### Hi there 👋
+<div align="center" >
+  <img width="200" src='https://media.giphy.com/media/YuKbGGIYMXemhnub3q/giphy.gif' >
+  
+  # hey there, I'm Konstantin
+</div>
 
-<!--
-**24const/24const** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+Passionate Full Stack Developer 🌐 | Building Web Experiences with a Smile 😊 | Frontend & Backend Wizard 🚀 | Problem Solver 💡 | Continuous Learner 📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 I code with
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Rubby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+### Technologies
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+
+#### Contact me on <a href="https://www.linkedin.com/in/24const/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+&nbsp;
+
+&nbsp;
