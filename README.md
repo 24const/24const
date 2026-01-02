@@ -9,6 +9,7 @@
 Passionate Full Stack Developer 🌐 | Building Web Experiences with a Smile 😊 | Frontend & Backend Wizard 🚀 | Problem Solver 💡 | Continuous Learner 📚
 
 ### 🛠 I code with
+![Golang](https://img.shields.io/badge/-Golang-000?&logo=Golang&logoColor=007396)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Rubby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby&logoColor=007396)
